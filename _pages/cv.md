@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Brain & Cognitive Sciences, University of Rochester, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2017 - Present: Research Assistant
+  * Dept of Neuroscience, University of Rochester
+  * Duties included: Leading a project that investigates the neural basis underlying illusory contour perception
+among adults and children using electroencephalography (EEG), eye-tracking and backward masking.
+Conceptualized the experiment, collected EEG data, and performed data analysis in MATLAB and writing
+up.
+  * Supervisor: Drs John J. Foxe & Edward G. Freedman
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2019 - Present: Independent Student
+  * Dept of Neuroscience, University of Rochester
+  * Duties included: Leading a project (i.e. honor thesis) that investigates the cortical tracking of unheard speech
+envelopes during silent lipreading using electroencephalography (EEG) and modeling (TRF). Designed the
+experiment in Presentation, collected EEG data, and performed data analysis in MATLAB and writing up.
+  * Supervisor: Dr Edmund C. Lalor
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAB: EEG preprocessing, EEG data modeling and behavioral data analysis
+* R: Nonparametric, categorical data analysis and data visualization (ggplot2)
+* Python: Stock exchange mechanisms & simple MCMC chains
+* Presentation: Experiment script for thesis experiment
 
 Publications
 ======
