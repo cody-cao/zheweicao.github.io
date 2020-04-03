@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Brain & Cognitive Sciences, University of Rochester, 2020 (expected)
+* PhD, Psychology, University of Michigan,
+**Advisor: David Brang, PhD
 
-Work experience
+* BS, Brain & Cognitive Sciences, University of Rochester, 2016-2020 (expected)
+**Advisor: Edmund C. Lalor, PhD
+
+Research experience
 ======
 * Oct 2017 - Present: Research Assistant
   * Dept of Neuroscience, University of Rochester
@@ -57,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
