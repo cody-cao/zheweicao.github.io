@@ -11,32 +11,37 @@ redirect_from:
 
 Education
 ======
-* PhD, Psychology, University of Michigan,
-**Advisor: David Brang, PhD
+* Aug 2020 -\
+PhD student, Psychology (Cognition & Cognitive Neuroscience Area)\
+University of Michigan\
+*Advisor: Dr. David Brang*
 
-* BS, Brain & Cognitive Sciences, University of Rochester, 2016-2020 (expected)
-**Advisor: Edmund C. Lalor, PhD
+* May 2020\
+B.S., Brain & Cognitive Sciences w/Honors\
+University of Rochester\
+*Advisor: Dr. Edmund C. Lalor*
 
 Research experience
 ======
 * Oct 2017 - Present: Research Assistant
   * Dept of Neuroscience, University of Rochester
-  * Duties included: Leading a project that investigates the neural basis underlying illusory contour perception
-among adults and children using electroencephalography (EEG), eye-tracking and backward masking.
-Conceptualized the experiment, collected EEG data, and performed data analysis in MATLAB and writing
-up.
   * Supervisor: Drs John J. Foxe & Edward G. Freedman
+  * Duties included: 
+    * Leading a project that investigates the neural basis underlying illusory contour perception among adults and children using electroencephalography (EEG), eye-tracking and backward masking.
+    * Conceptualized the experiment, collected EEG data, and performed data analysis in MATLAB and write-up.
+  
 
-* Jun 2019 - Present: Independent Student
+* Jun 2019 - Present: Honors Student
   * Dept of Neuroscience, University of Rochester
-  * Duties included: Leading a project (i.e. honor thesis) that investigates the cortical tracking of unheard speech
-envelopes during silent lipreading using electroencephalography (EEG) and modeling (TRF). Designed the
-experiment in Presentation, collected EEG data, and performed data analysis in MATLAB and writing up.
-  * Supervisor: Dr Edmund C. Lalor
+  * Supervisor: Dr. Edmund C. Lalor
+  * Duties included: 
+    * Leading a project (i.e. honor thesis) that investigates the cortical tracking of unheard speech envelopes during silent lipreading using electroencephalography (EEG) and modeling (TRF). 
+    * Designed the experiment in Presentation, collected EEG data, and performed data analysis in MATLAB and write-up.
+  
   
 Skills
 ======
-* MATLAB: EEG preprocessing, EEG data modeling and behavioral data analysis
+* MATLAB: EEG preprocessing, data modeling and behavioral data analysis
 * R: Nonparametric, categorical data analysis and data visualization (ggplot2)
 * Python: Stock exchange mechanisms & simple MCMC chains
 * Presentation: Experiment script for thesis experiment
