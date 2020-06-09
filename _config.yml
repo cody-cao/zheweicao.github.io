@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "zhewei cao / zhewei cao"
+title                    : "zhewei cao"
 title_separator          : "-"
-name                     : &name "zhewei cao 曹哲韡"
-description              : &description "Honors student in Brain & Cognitive Science at the University of Rochester"
+name                     : &name "zhewei cao"
+description              : &description "grad student at umich"
 url                      : https://zheweicao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zheweicao.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "zhewei_cao"
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "zhewei cao"
-  avatar           : "profile.png"
-  bio              : ""
-  location         : "rochester, ny"
+  avatar           : "cody_profile.png"
+  bio              : "grad student at umich"
+  location         : "ann arbor,mi"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : zcao10@u.rochester.edu
+  email            : zhewei@umich.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
