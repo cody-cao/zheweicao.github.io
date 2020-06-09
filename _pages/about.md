@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an incoming graduate student at the [Multisensory Perception Laboratory](https://sites.lsa.umich.edu/brang-lab/)in the Department of Psychology at the University of Michigan.
+I am an incoming graduate student at the [Multisensory Perception Laboratory](https://sites.lsa.umich.edu/brang-lab/) in the Department of Psychology at the University of Michigan.
 
 In May 2020, I graduated from the University of Rochester with a Bachelor's in Brain and Cognitive Sciences, and completed an honors thesis with the [Computational Cognitive Neurophysiology Lab](https://www.urmc.rochester.edu/labs/lalor.aspx) of Dr. Edmund C. Lalor. My thesis work demonstrated that during silent lipreading, categorical visual speech features are tracked in the visual cortex but not the auditory cortex. 
 
