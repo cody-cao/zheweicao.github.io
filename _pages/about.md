@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am an incoming graduate student at the [Multisensory Perception Laboratory](https://sites.lsa.umich.edu/brang-lab/) in the Department of Psychology at the University of Michigan.
+I am an incoming graduate student at the [Multisensory Perception Laboratory](https://sites.lsa.umich.edu/brang-lab/) in the Department of Psychology at the University of Michigan. My name is pronounced like /je-way/.
 
-In May 2020, I graduated from the University of Rochester with a Bachelor's in Brain and Cognitive Sciences, and completed an honors thesis with the [Computational Cognitive Neurophysiology Lab](https://www.urmc.rochester.edu/labs/lalor.aspx) of Dr. Edmund C. Lalor. My thesis work demonstrated that during silent lipreading, categorical visual speech features are tracked in the visual cortex but not the auditory cortex. 
+In May 2020, I graduated from the University of Rochester with a Bachelor's in Brain and Cognitive Sciences, and completed an honors thesis with the [Computational Cognitive Neurophysiology Lab](https://www.urmc.rochester.edu/labs/lalor.aspx) of Dr. Edmund C. Lalor. My thesis work demonstrated that during silent lipreading, categorical visual speech features are tracked in the visual cortex but not the auditory cortex. You can find my CNS poster here[poster](/files/CNS 2020_Final.pdf/).
 
 I was also a research assistant in Dr. John Foxe & Dr. Ed Freedman's [Cognitive Neurophysiology Lab](https://www.urmc.rochester.edu/labs/cognitive-neurophysiology.aspx), working on ERP studies of illusory contour perception. Our work showed that susceptability to backward masking interference is correlated with the interval between P1 & N1 component of the ERP. 
 
