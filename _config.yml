@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "zhewei cao"
+  name             : "Zhewei Cao"
   avatar           : "cody_profile.png"
-  bio              : "grad student at umich"
-  location         : "ann arbor,mi"
+  bio              : "Graduate student at the University of Michigan"
+  location         : "Ann Arbor,MI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
