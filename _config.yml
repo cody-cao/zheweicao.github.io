@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "zhewei cao"
+title                    : "Zhewei Cao"
 title_separator          : "-"
-name                     : &name "zhewei cao"
-description              : &description "grad student at umich"
+name                     : &name "Zhewei Cao"
+description              : &description "Graduate student at the University of Michigan"
 url                      : https://zheweicao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zheweicao.github.io"
