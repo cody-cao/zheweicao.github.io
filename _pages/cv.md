@@ -11,4 +11,4 @@ redirect_from:
 
 [[Click here]](/files/CaoZ_CV.pdf) for my recent CV.
 
-Updated Jan 2021.
+Last updated Jan 2021.
