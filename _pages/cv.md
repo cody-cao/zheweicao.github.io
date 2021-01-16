@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[[Click here]](/files/CaoZ_CV.pdf) for a recent CV.
+[[Click here]](/files/CaoZ_CV.pdf) for my recent CV.
+
+Updated Jan 2021.
